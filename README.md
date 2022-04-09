@@ -1,6 +1,9 @@
 # sql-movie-rental
 The project was carried out as part of the subject: Databases
+
+
 The aim of the project was to load the data entered by Access and then data operations, creating a few queries.
+
 
 query shows names of clients who are delaying with returning movies and how long [in days]
 
